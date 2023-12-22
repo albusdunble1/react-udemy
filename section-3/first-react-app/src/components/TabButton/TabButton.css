@@ -1,0 +1,19 @@
+#examples menu {
+    display: flex;
+    list-style: none;
+    width: auto;
+    padding: 1rem;
+}
+
+#examples button {
+    border: 1px solid white;
+    margin-right: 1rem;
+}
+
+#examples .active {
+    background-color: blue;
+}
+
+#examples {
+    border: 2px solid lime;
+}

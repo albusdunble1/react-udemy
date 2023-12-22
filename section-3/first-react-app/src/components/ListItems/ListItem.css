@@ -1,0 +1,17 @@
+#list-items ul li {
+    border: 3px solid yellow;
+    border-radius: 8%;
+    margin: 2rem 0;
+    padding: 1.5rem;
+    width: 30%;
+    list-style: none;
+    margin: calc((100% - 90%)/6);
+  }
+  
+#list-items ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: normal;
+  align-items: start;
+  padding: 0;
+}
