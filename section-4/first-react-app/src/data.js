@@ -60,8 +60,8 @@ export const listData = [
         subtitle: "Subtitle 6",
         hobbies: ['Lol', 'Haha'],
         address: {
-            state: 'State 6',
-            country: 'Country 6'
+            state: 'State 7777',
+            country: 'Country 7771'
         },
         job: 'job 6',
         company: 'MORPHEUS CONSULTING'
